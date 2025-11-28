@@ -73,7 +73,7 @@ If you prefer running it manually, follow these exact steps to avoid package err
 
 1.  **Navigate to the source directory:**
     ```bash
-    cd "yourlocalpath/StudentManagementSystem/src"
+    cd "{yourlocalpath}/StudentManagementSystem/src"
     ```
 
 2.  **Compile the Main class:**
@@ -89,6 +89,6 @@ If you prefer running it manually, follow these exact steps to avoid package err
 ---
 
 ## 👤 Author
-**Name:** Rohan Rathee
-**University:** K.R. Mangalam University
-**Department:** School of Engineering & Technology
+**Name:** Rohan Rathee\n
+**University:** K.R. Mangalam University\n
+**Department:** School of Engineering & Technology\n
