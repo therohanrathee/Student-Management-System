@@ -1,2 +1,3 @@
 144,Rohan Rathee,rohanrathee@icloud.com,B.Tech CSE Core,100.0
 245,Aditya,adityaphogat01@gmail.com,B.Tech CSE Core,99.0
+80,Anjali Tomar,tomaranjali2108@gmail.com,B.Tech CSE Core,98.0
